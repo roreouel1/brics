@@ -1,0 +1,268 @@
+.tab-content{
+  color:#ddd
+}
+
+#hero {
+    width: 100%;
+    height: 100vh;
+    background: url(../img/back2.jpg) top center no-repeat;
+    background-size:cover;
+    position: relative;
+    padding-top: 82px;
+}
+
+
+.navbar a, .navbar a:focus {
+ text-transform: uppercase;
+}
+
+.mtt{
+    margin-top:100px
+}
+
+.book{
+    width: 80%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.section-title{
+    margin-top:90px;
+    margin-bottom:50px
+}
+
+
+.btop{
+    /* margin-bottom:45px !important; */
+    display: inline;
+    width:100%;
+    background-color: #000;
+    color:#fff;
+    font-size:14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left:10px;
+    text-align: center;
+    /* position: relative; */
+    padding-top:10px;
+    padding-bottom:0;
+  
+}
+
+.move{
+    padding-left:270px
+}
+
+.move1{
+   padding-left:50px
+}
+
+#header{
+    padding-top:80px;
+    z-index: 100 !important;
+}
+
+#header.header-scrolled {
+    padding-top:60px;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  }
+
+
+.btop a{
+    font-weight: 600;
+    color:#fff;
+    font-size:18px
+}
+
+.btop a:hover{
+    color:#fe7028 ;
+}
+
+.navbar-mobile a, .navbar-mobile a:focus{
+    z-index: 200;
+}
+
+
+
+.portfolio .portfolio-wrap .portfolio-links a {
+    color:#fe7028
+}
+
+.easy{
+    margin-top:0px !important;
+    margin-bottom:0px !important;
+    top:0px  !important;
+}
+
+.big{
+    font-size: 60px;
+    color:#fe7028;
+}
+
+
+/* p{position:absolute;
+    top:5px;
+    right:20px;
+    font-size:20px;
+    color:white;
+    /* -webkit-animation: minus 0.5s; */
+
+    
+    @keyframes minus {
+        from {
+            transform:rotate(0deg);
+        }
+        to {
+            transform:rotate(360deg);
+        }
+    }
+    
+    [aria-expanded="false"] > .expanded, [aria-expanded="true"] > .collapsed {display: none;}
+
+ 
+    
+      .services a {
+        display: block;
+        position: relative;
+        font-family: #fe7028;
+        font-size: 18px;
+        line-height: 24px;
+        font-weight: 400;
+        padding-right: 25px;
+        cursor: pointer;
+      }
+      
+      
+      .services .icon-show {
+        display: none;
+      }
+
+      .services a.collapsed {
+        color: #343a40;
+      }
+
+      .services a.collapsed:hover {
+        color: #fe7028;
+      }
+      
+      .services  a.collapsed .icon-show {
+        display: inline-block;
+      }
+
+      .services  a.collapsed .icon-close {
+        display: none;
+      }
+      
+      .services h4{
+    font-weight:0;
+    color:#fe7028;
+    }
+    
+    .who{
+        color:#fe7028;
+    }
+
+/*--------------------------------------------------------------
+# Schedule Section
+--------------------------------------------------------------*/
+#schedule {
+    padding: 60px 0 60px 0;
+  }
+  #schedule .nav-tabs {
+    text-align: center;
+    margin: auto;
+    display: block;
+    border-bottom: 0;
+    margin-bottom: 30px;
+  }
+  #schedule .nav-tabs li {
+    display: inline-block;
+    margin-bottom: 0;
+  }
+  #schedule .nav-tabs a {
+    border: none;
+    border-radius: 50px;
+    font-weight: 600;
+    background-color: #0e1b4d;
+    color: #fff;
+    padding: 10px 100px;
+  }
+  @media (max-width: 991px) {
+    #schedule .nav-tabs a {
+      padding: 8px 60px;
+    }
+  }
+  @media (max-width: 767px) {
+    #schedule .nav-tabs a {
+      padding: 8px 50px;
+    }
+  }
+  @media (max-width: 480px) {
+    #schedule .nav-tabs a {
+      padding: 8px 30px;
+    }
+  }
+  #schedule .nav-tabs a.active {
+    background-color: #f82249;
+    color: #fff;
+  }
+  #schedule .sub-heading {
+    text-align: center;
+    font-size: 18px;
+    font-style: italic;
+    margin: 0 auto 30px auto;
+  }
+  @media (min-width: 991px) {
+    #schedule .sub-heading {
+      width: 75%;
+    }
+  }
+  #schedule .tab-pane {
+    transition: ease-in-out 0.2s;
+  }
+  #schedule .schedule-item {
+    border-bottom: 1px solid #cad4f6;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    transition: background-color ease-in-out 0.3s;
+  }
+  #schedule .schedule-item:hover {
+    background-color: #fff;
+  }
+  #schedule .schedule-item time {
+    padding-bottom: 5px;
+    display: inline-block;
+  }
+  #schedule .schedule-item .speaker {
+    width: 60px;
+    height: 60px;
+    overflow: hidden;
+    border-radius: 50%;
+    float: left;
+    margin: 0 10px 10px 0;
+  }
+  #schedule .schedule-item .speaker img {
+    height: 100%;
+    transform: translateX(-50%);
+    margin-left: 50%;
+    transition: all ease-in-out 0.3s;
+  }
+  #schedule .schedule-item h4 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 5px;
+  }
+  #schedule .schedule-item h4 span {
+    font-style: italic;
+    color: #19328e;
+    font-weight: normal;
+    font-size: 16px;
+  }
+  #schedule .schedule-item p {
+    font-style: italic;
+    color: #152b79;
+    margin-bottom: 0;
+  }
+  
+.swiper-pagination-bullet-active{
+    color: #fe7028;
+}
