@@ -2,8 +2,8 @@
  
  
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top d-flex align-items-center">
-  
+  <!-- <header id="header" class="fixed-top d-flex align-items-center"> -->
+  <header id="header" class="fixed-top align-items-center">
     <div class="container d-flex align-items-center">
       <!-- <h1 class="logo me-auto"><a href="index.html">Presento<span>.</span></a></h1> -->
      
@@ -23,7 +23,7 @@
           <li><a class="nav-link scrollto" href="{{route('services')}}">Consulting</a></li>
           <li><a class="nav-link scrollto " href="{{route('training')}}">Training</a></li>
           <li><a class="nav-link scrollto " href="{{route('resource')}}">Resources</a></li>
-          <li><a class="nav-link scrollto " href="https://etighana.com/">EIG</a></li>
+          <!-- <li><a class="nav-link scrollto " href="https://etighana.com/">EIG</a></li> -->
           <li><a class="nav-link scrollto " href="{{route('partners')}}">Clients and partners</a></li>
           <li><a class="nav-link scrollto" href="{{route('contact')}}">Contact</a></li>
 

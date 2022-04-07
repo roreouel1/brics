@@ -5,7 +5,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>SEE WHO WE ARE</h2>
+          <h2>Gallery</h2>
           <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p> -->
         </div>
 
