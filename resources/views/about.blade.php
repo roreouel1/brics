@@ -10,11 +10,13 @@
           <div class="content col-xl-5 d-flex align-items-stretch">
             <div class="content">
               <h3 class="who">WHO WE ARE</h3>
+              <!-- <img src="assets/img/8.jpg" alt=""> -->
               <p>
               We are a consulting firm focused on strategic Technology, Business, Financial and Research services, set up to provide professional advice to organizations of all sizes within various industries that help improve operational and financial performance through a hands-on process that supports them in making well-informed decisions that deliver high-impact results and achieve sustained value. Our insight and guidance is aimed at empowering our clients to improve organizational efficiency, effectiveness, agility and responsiveness; applying technical knowledge and expertise to strategy, research and technology to provide sustainable solutions to all organizational challenges.
 
-Our expertise spans digital & IT services, financial advisory, training & capacity building, strategy and business development among others. So whether you want to mobilize your internal processes, develop an entrepreneurial idea, motivate your employees or simply raise the profile of your brand – you can completely rely on us.
+Our expertise spans digital & IT services, financial advisory, training & capacity building, strategy and business development among others. So whether you want to mobilize your internal processes, develop an entrepreneurial idea, motivate your employees or simply raise the profile of your brand – you can completely rely on us.</p>
 
+<p>
 With an experienced British-trained consultant at the helm as Chief Executive Officer, BRICS AFRICA CONSULTING LLC intends to grow through solid customer service that ensures optimal satisfaction, a great sales strategy that encourages referrals, proven competitive strategies driven by actionable insights, and most importantly a team of highly skilled and experienced professionals that bring dynamic energy to the company and all its operational processes.
 
 Our wide network of professionals and consultants; with each specializing in a particular discipline, including finance, technology consulting services, Statistical reporting and data analytics, sales and marketing, risk management and actuarial services, strategic management, education and training etc.; provides our clients the assurance of an experience that is certain to meet and exceed their expectations. 
@@ -27,13 +29,13 @@ Our wide network of professionals and consultants; with each specializing in a p
           <div class="content col-xl-5 mtt">
 
           <img src="assets/img/core.png" alt="">
-    
+                <p></p>
               <p>
               BRICS AFRICA CONSULTING LLC aims at offering comprehensive technology-driven strategic business and management consulting services with a clear focus on providing custom and specialized solutions to meet each client’s specific needs.
 
-BRICS AFRICA CONSULTING LLC will be firmly focused on serving the comprehensive needs of organizations within our target group, in the full range of the business cycle. With a network of experienced professionals and a team approach to all consulting contracts and projects, BRICS AFRICA CONSULTING will be able to offer more balanced quality services than many of our competitors; serving a wide array of clients and brands.
+BRICS AFRICA CONSULTING LLC will be firmly focused on serving the comprehensive needs of organizations within our target group, in the full range of the business cycle. With a network of experienced professionals and a team approach to all consulting contracts and projects, BRICS AFRICA CONSULTING will be able to offer more balanced quality services than many of our competitors; serving a wide array of clients and brands.</p>
 
-Our business model and service delivery principles enjoin us, to at all times, prioritize the specific needs and expectations of our clients and we will remain resolutely committed to ensuring that this culture is promoted and maintained amongst all members of our team; giving high regard to the fundamental values of professionalism, fairness, integrity and transparency. The idea is to build a solid base of satisfied clients which we will leverage to secure bigger clients, in the hope that once we establish relationships with relatively smaller organizations and continually nurture these relationships over the long term, our share of the market will grow through referrals/recommendations and repeat business. 
+<p>Our business model and service delivery principles enjoin us, to at all times, prioritize the specific needs and expectations of our clients and we will remain resolutely committed to ensuring that this culture is promoted and maintained amongst all members of our team; giving high regard to the fundamental values of professionalism, fairness, integrity and transparency. The idea is to build a solid base of satisfied clients which we will leverage to secure bigger clients, in the hope that once we establish relationships with relatively smaller organizations and continually nurture these relationships over the long term, our share of the market will grow through referrals/recommendations and repeat business. 
               </p>
               <!-- <a href="#" class="about-btn"><span>About us</span> <i class="bx bx-chevron-right"></i></a> -->
             </div>

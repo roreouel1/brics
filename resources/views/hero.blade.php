@@ -42,9 +42,9 @@
         <div class="carousel-item" style="background-image: url(assets/img/back2.jpg)">
           <div class="carousel-container">
             <div class="container">
-              <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
-              <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-              <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+              <h2 class="animate__animated animate__fadeInDown">Go digital!</h2>
+              <p class="animate__animated animate__fadeInUp">Become the new digital firm with Brics Africa Consulting.Cloud computing opportunities enabled </p>
+              <a href="{{route('about')}}" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
             </div>
           </div>
         </div>
@@ -53,9 +53,9 @@
         <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg)">
           <div class="carousel-container">
             <div class="container">
-              <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2>
-              <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-              <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+              <h2 class="animate__animated animate__fadeInDown">IT-Business alignment, the way to go</h2>
+              <p class="animate__animated animate__fadeInUp">The right way to manage all your business finances is to do it with Brics Africa Consulting</p>
+              <a href="{{route('about')}}" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
             </div>
           </div>
         </div>
@@ -65,9 +65,9 @@
         <div class="carousel-item" style="background-image: url(assets/img/7.jpg)">
           <div class="carousel-container">
             <div class="container">
-              <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2>
-              <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-              <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+              <h2 class="animate__animated animate__fadeInDown">Top notch accounting strategy</h2>
+              <p class="animate__animated animate__fadeInUp">A well-planned and implemented accounting strategy is a crucial factor in the constant growth of SMEs.It is wise to plan your accounting strategy well beforehand with Brics Africa Consulting</p>
+              <a href="{{route('about')}}" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
             </div>
           </div>
         </div>
@@ -86,7 +86,7 @@
   </section><!-- End Hero -->
 
     <!-- ======= Tabs Section ======= -->
-    <section id="tabs" class="tabs">
+    <section id="tabs" class="tabs section-bg">
       <div class="container" data-aos="fade-up">
 <!-- 
         <ul class="nav nav-tabs row d-flex">
@@ -130,10 +130,10 @@
           </li>
         </ul> -->
 
-        <div class="tab-content">
+        <div class="tab-content pricing section-bg">
           <div class="tab-pane active show" id="tab-1">
             <div class="row">
-              <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0" data-aos="fade-up" data-aos-delay="100">
+              <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 wwr" data-aos="fade-up" data-aos-delay="100">
                 <h3>WHO WE ARE</h3>
                 <p class="fst-italic">
                 Brics Africa is a consulting ﬁrm focused on strategic Technology, Business, Financial and Research services, set up to provide professional advice to organizations of all sizes within various industries that help improve operational and ﬁnancial performance through a hands-on process that supports them in making well-informed decisions that deliver high-impact results and achieve sustained value.
@@ -151,7 +151,7 @@ Our expertise spans digital & IT services, ﬁnancial advisory, training & capac
                 </p>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
-                <img src="assets/img/back1.jpg" alt="" class="img-fluid">
+                <img src="assets/img/6.jpg" alt="" class="img-fluid">
               </div>
             </div>
           </div>

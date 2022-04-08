@@ -1,3 +1,11 @@
+.wwr{
+ color:#fff;
+}
+
+.wwr h3{
+  color:#fe7028
+ }
+
 .tab-content{
   color:#ddd
 }
@@ -24,6 +32,165 @@ margin-top:80px
     padding-top: 82px;
 } */
 
+
+/*--------------------------------------------------------------
+# Team
+--------------------------------------------------------------*/
+/* .team .member {
+  position: relative;
+  box-shadow: 0px 2px 15px rgba(85, 98, 112, 0.08);
+  padding: 30px;
+  border-radius: 4px;
+  background: white;
+}
+.team .member .pic {
+  overflow: hidden;
+  width: 140px;
+  border-radius: 4px;
+}
+.team .member .pic img {
+  transition: ease-in-out 0.3s;
+}
+.team .member:hover img {
+  transform: scale(1.1);
+}
+.team .member .member-info {
+  padding-left: 30px;
+}
+.team .member h4 {
+  font-weight: 700;
+  margin-bottom: 5px;
+  font-size: 20px;
+  color: #556270;
+}
+.team .member span {
+  display: block;
+  font-size: 15px;
+  padding-bottom: 10px;
+  position: relative;
+  font-weight: 500;
+}
+.team .member span::after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 50px;
+  height: 1px;
+  background: #dee2e6;
+  bottom: 0;
+  left: 0;
+}
+.team .member p {
+  margin: 10px 0 0 0;
+  font-size: 14px;
+}
+.team .member .social {
+  margin-top: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.team .member .social a {
+  transition: ease-in-out 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  width: 32px;
+  height: 32px;
+  background: #8795a4;
+}
+.team .member .social a i {
+  color: #fff;
+  font-size: 16px;
+  margin: 0 2px;
+}
+.team .member .social a:hover {
+  background: #d9232d;
+}
+.team .member .social a + a {
+  margin-left: 8px;
+} */
+
+.events h2{
+background-color: #fe7028;
+color: #fff;
+padding-top:20px;
+
+}
+
+.training ul{
+  list-style: none;
+  color:#343a40
+}
+
+
+.events i{
+  color:#fe7028;
+}
+
+.events ul{
+  list-style: none;
+  color:#343a40
+}
+
+
+.events .icon-box ul{
+  list-style: none;
+}
+
+
+.events .icon-box {
+  margin-bottom: 20px;
+  /* padding: 10px; */
+  border-radius: 6px;
+  background: #252525;
+  transition: 0.3s;
+}
+.events .icon-box:hover {
+  background: #2b2b2b;
+}
+.events .icon-box i {
+  float: left;
+  color: #fe7028;
+  font-size: 15px;
+  line-height: 0;
+}
+
+.events .icon-box h4 {
+  margin-left: 70px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+.events .icon-box h4 a {
+  color: #fff;
+  transition: 0.3s;
+}
+.events .icon-box h4 a:hover {
+  text-decoration: underline;
+}
+.events .icon-box .icon-box:hover h4 a {
+  color: #fe7028;
+}
+.events .icon-box p {
+  margin-left: 70px;
+  line-height: 24px;
+  font-size: 14px;
+}
+
+
+.portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
+  width: 12px;
+  height: 12px;
+  background-color: #fff;
+  opacity: 1;
+  border: 1px solid #fe7028;
+}
+
+.contact .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
+  background-color: #fe7028;
+}
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
@@ -34,6 +201,8 @@ margin-top:80px
   overflow: hidden;
   position: relative;
 }
+
+
 #hero .carousel, #hero .carousel-inner, #hero .carousel-item, #hero .carousel-item::before {
   position: absolute;
   top: 0;
@@ -116,6 +285,7 @@ margin-top:80px
 #hero .carousel-control-next-icon:hover, #hero .carousel-control-prev-icon:hover {
   background: rgba(255, 255, 255, 0.3);
   color: rgba(255, 255, 255, 0.8);
+  border: 1px solid #fe7028;
 }
 #hero .carousel-indicators li {
   cursor: pointer;
@@ -264,6 +434,13 @@ margin-top:80px
     color:#fe7028;
 }
 
+.tabs,.section-bg{
+  margin-top:0 !important
+}
+
+.tabs{
+  background:#fe7028;
+}
 
 /* p{position:absolute;
     top:5px;

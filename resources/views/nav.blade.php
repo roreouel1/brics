@@ -15,14 +15,21 @@
             <li class="dropdown"><a href="#"><span>About us</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="{{route('about')}}">Company Profile</a></li>
-              <li><a href="{{route('team')}}">Team</a></li>
-              <li><a href="{{route('gallery')}}">Gallery</a></li>
+              <li><a href="{{route('team')}}">Board of Directors</a></li>
+              <li><a href="{{route('manage')}}">Management</a></li>
             </ul>
           </li>
         
           <li><a class="nav-link scrollto" href="{{route('services')}}">Consulting</a></li>
           <li><a class="nav-link scrollto " href="{{route('training')}}">Training</a></li>
-          <li><a class="nav-link scrollto " href="{{route('resource')}}">Resources</a></li>
+          <li class="dropdown"><a href="#"><span>Resources</span> <i class="bi bi-chevron-down"></i></a>
+             <ul>
+              <li><a href="{{route('resource')}}">Blogs</a></li>
+              <li><a href="{{route('team')}}">Videos</a></li>
+              <li><a href="{{route('gallery')}}">Gallery</a></li>
+              <li><a href="{{route('gallery')}}">Brochures</a></li>
+            </ul>
+          </li>
           <!-- <li><a class="nav-link scrollto " href="https://etighana.com/">EIG</a></li> -->
           <li><a class="nav-link scrollto " href="{{route('partners')}}">Clients and partners</a></li>
           <li><a class="nav-link scrollto" href="{{route('contact')}}">Contact</a></li>

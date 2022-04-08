@@ -67,3 +67,19 @@ Route::get('/why', function () {
     return view('why');
 })->name('why');
 
+
+Route::get('/manage', function () {
+    return view('manage');
+})->name('manage');
+
+Route::get('/partners', function () {
+    return view('partners');
+})->name('partners');
+
+Route::get('/resource', function () {
+    return view('resources');
+})->name('resource');
+
+Route::get('/why', function () {
+    return view('why');
+})->name('why');
