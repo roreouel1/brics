@@ -20,10 +20,11 @@
              
               <!-- <div class="event icon-box"> -->
                 <ul>
-                  <li><i class="ri-check-double-line"></i>Vulnerability assessment training</li>
-                  <li><i class="ri-check-double-line"></i>Digital customer service management</li>
-                  <li><i class="ri-check-double-line"></i>Cybersecurity awareness for C-Level executives</li>
-                  <li><i class="ri-check-double-line"></i>Cybersecurity awareness for small business owners and managers</li>
+                  <!-- <li><i class="ri-check-double-line"></i>Vulnerability assessment training</li> -->
+                  <li><span>01.</span>Vulnerability assessment training</li>
+                  <li><span class="spe">02.</span>Digital customer service management</li>
+                  <li><span>03.</span>Cybersecurity awareness for C-Level executives</li>
+                  <li><span class="spe">04.</span>Cybersecurity awareness for small business owners and managers</li>
               
                 </ul>
 <!-- 
@@ -36,10 +37,10 @@
       
                 <ul>
                   
-                  <li><i class="ri-check-double-line"></i>Digital sales training</li>
-                  <li><i class="ri-check-double-line"></i>Branding fundamentals for startups and small businesses</li>
-                  <li><i class="ri-check-double-line"></i>Accounting and Finance for entrepreneurs and small businesses</li>
-                  <li><i class="ri-check-double-line"></i>Effective Financial management for  small businesses </li>
+                  <li><span class="spe">05.</span>Digital sales training</li>
+                  <li><span>06.</span>Branding fundamentals for startups and small businesses</li>
+                  <li ><span class="spe">07.</span>Accounting and Finance for entrepreneurs and small businesses</li>
+                  <li><span>08.</span>Effective Financial management for  small businesses </li>
             
                 </ul>
 
@@ -53,10 +54,10 @@
              
       
                 <ul>
-                  <li><i class="ri-check-double-line"></i>Small business guide to re-branding your business</li>
-                  <li><i class="ri-check-double-line"></i>Small business financial management </li>
-                  <li><i class="ri-check-double-line"></i>Driving sales through digital marketing </li>
-                  <li><i class="ri-check-double-line"></i>How to select Apps to grow your business</li>
+                  <li><span>09.</span>Small business guide to re-branding your business</li>
+                  <li><span class="spe">10.</span>Small business financial management </li>
+                  <li><span > 11.</span>Driving sales through digital marketing </li>
+                  <li><span  class="spe">12.</span>How to select Apps to grow your business</li>
                 </ul>
 
                 

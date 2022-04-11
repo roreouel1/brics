@@ -1,4 +1,4 @@
-  <div class="btop fixed-top "><i class="bi bi-phone"></i>+233 203 969 993/+233 203 971 056/+233 206 803 214<i class="bi bi-envelope move1">info@bricsafricaconsulting.com</i><a href="https://twitter.com/BricsAfrica" class="twitter"><i class="bx bxl-twitter move"></i></a> <a href="https://facebook.com/bricsafrica" class="facebook"><i class="bx bxl-facebook"></i></a>  <a href="https://instagram.com/bricsafrica" class="instagram"><i class="bx bxl-instagram"></i></a>  <a href="https://www.linkedin.com/company/brics-africa-consulting" class="linkedin"><i class="bx bxl-linkedin"></i></a></div>
+  <div class="btop fixed-top "><i class="bi bi-phone"></i>+233 203 969 993/+233 203 971 056/+233 206 803 214<i class="bi bi-envelope move1"><span>  </span>info@bricsafricaconsulting.com</i><a href="https://twitter.com/BricsAfrica" class="twitter"><i class="bx bxl-twitter move"></i></a> <a href="https://facebook.com/bricsafrica" class="facebook"><i class="bx bxl-facebook"></i></a>  <a href="https://instagram.com/bricsafrica" class="instagram"><i class="bx bxl-instagram"></i></a>  <a href="https://www.linkedin.com/company/brics-africa-consulting" class="linkedin"><i class="bx bxl-linkedin"></i></a></div>
  
  
   <!-- ======= Header ======= -->
@@ -24,10 +24,10 @@
           <li><a class="nav-link scrollto " href="{{route('training')}}">Training</a></li>
           <li class="dropdown"><a href="#"><span>Resources</span> <i class="bi bi-chevron-down"></i></a>
              <ul>
-              <li><a href="{{route('resource')}}">Blogs</a></li>
-              <li><a href="{{route('team')}}">Videos</a></li>
+              <li><a href="{{route('blogs')}}">Blogs</a></li>
+              <li><a href="{{route('videos')}}">Videos</a></li>
               <li><a href="{{route('gallery')}}">Gallery</a></li>
-              <li><a href="{{route('gallery')}}">Brochures</a></li>
+              <li><a href="{{route('brochures')}}">Brochures</a></li>
             </ul>
           </li>
           <!-- <li><a class="nav-link scrollto " href="https://etighana.com/">EIG</a></li> -->

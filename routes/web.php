@@ -59,9 +59,17 @@ Route::get('/partners', function () {
     return view('partners');
 })->name('partners');
 
-Route::get('/resource', function () {
-    return view('resources');
-})->name('resource');
+Route::get('/blogs', function () {
+    return view('blogs');
+})->name('blogs');
+
+Route::get('/videos', function () {
+    return view('videos');
+})->name('videos');
+
+Route::get('/brochures', function () {
+    return view('brochures');
+})->name('brochures');
 
 Route::get('/why', function () {
     return view('why');

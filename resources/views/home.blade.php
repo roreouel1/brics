@@ -26,6 +26,7 @@
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
   <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
  
+  
 
 
   <!-- Template Main CSS File -->
@@ -83,6 +84,7 @@
   <script src="assets/vendor/php-email-form/validate.js"></script>
 
   <!-- Template Main JS File -->
+  <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
   <script src="assets/js/main.js"></script>
   @yield('styles')
 </body>

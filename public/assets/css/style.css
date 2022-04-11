@@ -1513,33 +1513,36 @@ section {
   border: 0;
   background-color: #111111;
 }
+
 .blog .blog-comments .reply-form .btn-primary:hover {
   background-color: #1e1e1e;
 }
+
 .blog .blog-pagination {
   color: #444444;
 }
+
 .blog .blog-pagination ul {
   display: flex;
   padding: 0;
   margin: 0;
   list-style: none;
 }
-.blog .blog-pagination li {
+.blog .blog-pagination  li > .page-item  {
   margin: 0 5px;
   transition: 0.3s;
 }
-.blog .blog-pagination li a {
+.blog .blog-pagination  li >.page-item  a >.page-link {
   color: #111111;
   padding: 7px 16px;
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.blog .blog-pagination li.active, .blog .blog-pagination li:hover {
+.blog .blog-pagination li.active > .page-item , .blog .blog-pagination li >.page-item :hover {
   background: #fe7028;
 }
-.blog .blog-pagination li.active a, .blog .blog-pagination li:hover a {
+.blog .blog-pagination li.active > .page-item  a > .page-link, .blog .blog-pagination li > .page-item :hover a > .page-link {
   color: #fff;
 }
 .blog .sidebar {
