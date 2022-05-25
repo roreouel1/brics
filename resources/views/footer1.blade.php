@@ -37,8 +37,10 @@
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Join Our Newsletter</h4>
             <p>Enter your email to subscribe to our periodic newsletter</p>
-            <form action="" method="post">
-              @crf
+            <form action="" method="post"  enctype="multipart/form-data">
+
+            @csrf
+
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
           </div>

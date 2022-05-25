@@ -43,7 +43,7 @@
               </div>
               <div class="member-info">
               <h4>Jacob Agyei Twumasi </h4>
-                <span>CEO</span>
+              <span>Chief Executive Officer</span>
               </div>
             </div>
           </div>

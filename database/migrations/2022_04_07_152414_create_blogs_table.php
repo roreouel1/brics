@@ -20,6 +20,8 @@ class CreateBlogsTable extends Migration
             $table->string('sd');
             $table->string('content');
             $table->string('photo');
+            $table->string('category');
+            $table->string('tags');
             $table->date('date');
             // $table->string('author')->unique();
             $table->timestamp('last_modified')->nullable();

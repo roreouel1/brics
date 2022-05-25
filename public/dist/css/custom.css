@@ -1,0 +1,39 @@
+.alert{
+    margin-right: auto;
+    margin-left:auto;
+}
+
+
+.text-danger{
+    font-size: 13px;
+}
+
+.table tr:hover{
+    background: #88c241 !important;
+    color:#fff !important;
+}
+
+.table tr:hover i{
+    color: #fff !important;
+}
+
+.table tr:hover button,.table tr:focus button{
+   background: transparent !important;
+   border: none;
+}
+
+.table tr button{
+    background: transparent !important;
+    border: none;
+    color:#88c241
+ }
+ 
+
+.table.dataTable thead th:hover  {
+    color: #fff !important;
+}
+
+
+.line{
+    display: flex !important;
+}

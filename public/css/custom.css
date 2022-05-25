@@ -1,0 +1,11 @@
+
+
+input[type="email" i],input[type="password" i],input[type="text" i]{
+    border: 1px solid #000;
+}
+
+
+input[type="email" i]:focus,input[type="password" i]:focus,input[type="text" i]:focus{
+    border: 1px solid #fe7028;
+    box-shadow: none;
+}

@@ -3,6 +3,7 @@
 namespace App\Exceptions;
 
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
+use Illuminate\Http\Request;
 use Throwable;
 
 class Handler extends ExceptionHandler
@@ -37,5 +38,11 @@ class Handler extends ExceptionHandler
         $this->reportable(function (Throwable $e) {
             //
         });
+
+        
+        /* $this->renderable (function (NotFoundHttpException $e,Request $request) {
+            $request->session()->flash('alert-danger', '1. Entry failed <br> 2. Email might be already registered <br> 3. Enter correct data!');
+            return back();
+        }); */
     }
 }

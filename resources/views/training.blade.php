@@ -7,7 +7,7 @@
     <section id="contact" class="events">
       <div class="container" data-aos="fade-up">
 
-        <div class="section-title">
+        <div class="section-title na">
           <h2>Upcoming Training Programs</h2>
           <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p> -->
         </div>
@@ -16,54 +16,83 @@
         <div class="tab-content">
           <div class="tab-pane active show" id="tab-1">
             <div class="row">
-              <div class="col-lg-4 order-2 order-lg-1 mt-3 mt-lg-0" data-aos="fade-up" data-aos-delay="100">
-             
-              <!-- <div class="event icon-box"> -->
-                <ul>
-                  <!-- <li><i class="ri-check-double-line"></i>Vulnerability assessment training</li> -->
-                  <li><span>01.</span>Vulnerability assessment training</li>
-                  <li><span class="spe">02.</span>Digital customer service management</li>
-                  <li><span>03.</span>Cybersecurity awareness for C-Level executives</li>
-                  <li><span class="spe">04.</span>Cybersecurity awareness for small business owners and managers</li>
-              
-                </ul>
-<!-- 
-             </div> -->
+           
+             <table class="table">
+             <!-- <thead>
+                    <tr>
+                        <th>
+                            Column heading
+                        </th>
+                        <th>
+                            Column heading
+                        </th>
+                        <th>
+                            Column heading
+                        </th>
+                    </tr>
+                </thead> -->
+                <tbody>
+                    <tr class="active">
+                        <td class="num">    1.</td>
+                        <td>
+                     Vulnerability assessment training
+                        </td>
+                        <td class="num">  5. </td>
+                        <td>
+                      Digital customer service management
+                        </td>
+                        <td class="num">  9.</td>
+                        <td>
+                        Cybersecurity awareness for C-Level executives
+                        </td>
+                    </tr>
+                    <tr>
+                    <td class="num"> 2.</td>
+                        <td>
+                           Cybersecurity awareness for small business owners and managers
+                        </td>
+                        <td class="num"> 6.</td>
+                        <td>
+                         Digital sales training
+                        </td>
+                        <td class="num">  10. </td>
+                        <td>
+                        Branding fundamentals for startups and small businesses
+                        </td>
+                     
+                    <tr class="success">
+                        <td class="num"> 3.</td>
+                    <td>
+                        Accounting and Finance for entrepreneurs and small businesses
+                        </td>
+                        <td class="num">  7. </td>
+                        <td>
+                       Effective Financial management for  small businesses
+                        </td>
+                        <td class="num">  11. </td>
+                        <td>
+                        Small business guide to re-branding your business
+                        </td>
+                    </tr>
 
-              </div>
-              
-              <div class="col-lg-4 order-2 order-lg-1 mt-3 mt-lg-0" data-aos="fade-up" data-aos-delay="100">
-             
-      
-                <ul>
-                  
-                  <li><span class="spe">05.</span>Digital sales training</li>
-                  <li><span>06.</span>Branding fundamentals for startups and small businesses</li>
-                  <li ><span class="spe">07.</span>Accounting and Finance for entrepreneurs and small businesses</li>
-                  <li><span>08.</span>Effective Financial management for  small businesses </li>
-            
-                </ul>
+                    <tr class="success">
+                    <td class="num">  4. </td>
+                    <td>
+                        Small business financial management
+                        </td>
+                        <td class="num">  8. </td>
+                        <td>
+                     Driving sales through digital marketing
+                        </td>
+                        <td class="num">   12.</td>
+                        <td>
+                       How to select Apps to grow your business
+                        </td>
+                    </tr>
+                   
+                </tbody>
+             </table>
 
-                
-            
-              </div>
-
-
-               
-              <div class="col-lg-4 order-2 order-lg-1 mt-3 mt-lg-0" data-aos="fade-up" data-aos-delay="100">
-             
-      
-                <ul>
-                  <li><span>09.</span>Small business guide to re-branding your business</li>
-                  <li><span class="spe">10.</span>Small business financial management </li>
-                  <li><span > 11.</span>Driving sales through digital marketing </li>
-                  <li><span  class="spe">12.</span>How to select Apps to grow your business</li>
-                </ul>
-
-                
-            
-              </div>
-              
           </div>
     </section><!-- End Schedule Section -->
 

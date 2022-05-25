@@ -754,3 +754,45 @@ font-size: 25px;
 #footer .footer-newsletter form input[type=submit]:hover {
   background: #000;
 }
+
+
+.table{
+  /* background-color: #d5fcb0; */
+  background-color:#1b1b1b;
+  border: 1px solid #fe7028;
+}
+
+td{
+  /* border-bottom: 1px solid #1b1b1b;
+  border-left: 1px solid #1b1b1b; */
+  border-bottom: 1px solid #fe7028;
+  border-left:  1px solid #fe7028;
+  color: #fff;
+}
+
+.na{
+  margin-bottom: 0 !important
+}
+
+.num{
+  color: #fe7028
+}
+
+._530-:hover{
+  color: #fe7028 !important
+}
+
+
+
+#footer .footer-newsletter form input[type=email] :focus {
+  border: 1px solid #fe7028 !important;
+}
+
+#footer .footer-newsletter form {
+  margin-top: 30px;
+  background: #fff;
+  padding: 3px 6px;
+  position: relative;
+  border-radius: 4px;
+  text-align: left;
+}
